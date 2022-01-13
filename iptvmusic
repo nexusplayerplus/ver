@@ -1,3 +1,3 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="Asiritv.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/Asiritv/picture?width=320&height=320" group-title="Local",AsiriTV (Lima) (720p) [Not 24/7]
-https://video2.lhdserver.es/asiritv/live.m3u8
+#EXTINF:-1 tvg-id="Asiritv.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/Asiritv/picture?width=320&height=320" group-title="Local",Panamericana TV
+https://stream-02.sg1.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFvNXwpUdxSGqUDc4W4RAsKE)/dm/3/x774s7s/s/live-3.m3u8#cell=lsg1
