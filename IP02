@@ -1,3 +1,15 @@
 #EXTM3U
-#EXTINF:-1,BEIN_SPORT_PREMIUM_1_4K
+#EXTINF:-1,Bein Sport Premium 1 ARA
 http://smartestv.vip:2095/ABHVYOP/2387998104/5544
+#EXTINF:-1,Bein Sport Premium 2 ARA
+http://smartestv.vip:2095/ABHVYOP/2387998104/5543
+#EXTINF:-1,Bein Sport Premium 3 ARA
+http://smartestv.vip:2095/ABHVYOP/2387998104/5542
+#EXTINF:-1,Bein Sport Premium 1 ENG
+http://smartestv.vip:2095/ABHVYOP/2387998104/5533
+#EXTINF:-1,Bein Sport Premium 2 ENG
+http://smartestv.vip:2095/ABHVYOP/2387998104/73813
+#EXTINF:-1,Bein Sport Premium 2 ENG
+http://smartestv.vip:2095/ABHVYOP/2387998104/73812
+#EXTINF:-1,Bein NBA
+http://smartestv.vip:2095/ABHVYOP/2387998104/73809
