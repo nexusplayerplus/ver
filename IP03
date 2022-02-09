@@ -1,1 +1,3 @@
-ww
+#EXTM3U
+#EXTINF:-1,CBS News
+https://dai.google.com/linear/hls/pb/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/949aa905-201e-483b-a9b7-406e661cf71b:TPE2/variant/62dcd224696a08303fa5a2fb09cf52e7/bandwidth/2727419.m3u8
