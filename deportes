@@ -7,3 +7,5 @@ https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
 #EXTINF:-1 tvg-id="TraceSportStars.fr" status="online",Sports 4
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="EDGEsport.uk" status="online",EDGESport
+https://edgesports-sportstribal.amagi.tv/playlist.m3u8
