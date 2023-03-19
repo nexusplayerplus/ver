@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Clarity4K.us" status="online",Clarity
+#EXTINF:-1 tvg-id="" status="online",All Sport
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
+#EXTINF:-1 tvg-id="" status="online",ACC Netowrk
+https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8
