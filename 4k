@@ -1,5 +1,29 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" status="online",All Sport
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
-#EXTINF:-1 tvg-id="" status="online",ACC Netowrk
+#EXTINF:-1 tvg-id="" status="online",ACC Network
 https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8
+#EXTINF:-1 tvg-id="" status="online",Adventure Sports TV
+https://gizmeon.s.llnwi.net/channellivev3/live/master.m3u8?channel=275
+#EXTINF:-1 tvg-id="" status="online",EDGEsport
+https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" status="online",Fuel TV
+https://fueltv-fueltv-2-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" status="online",Lax Sports Network TV
+https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
+#EXTINF:-1 tvg-id="" status="online",MavTV Select
+https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" status="online",MMA Junkie
+https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" status="online",Pac 12 Insider
+https://pac12-roku-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" status="online",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-id="" status="online",Sports TV
+https://live.sportstv.com.tr/hls/low/sportstv.m3u8
+#EXTINF:-1 tvg-id="" status="online",Sports TV Plus
+https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
+#EXTINF:-1 tvg-id="" status="online",STIRR MavTV
+https://dai.google.com/linear/hls/event/YoBM0ae5Q62TPdrfFHS4RQ/master.m3u8
+#EXTINF:-1 tvg-id="" status="online",Tennis Channel
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
