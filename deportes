@@ -1,15 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" status="online",Rakuten TV - Sport 1
-https://list.iptvcat.com/my_list/s/87c68ed03f24c44e7886c5825b4b5e2d.m3u8
-#EXTINF:-1 tvg-id="" status="online",Rakuten TV - Sport 2
-https://list.iptvcat.com/my_list/s/ddeecacec993b129c0bebad1d2390b72.m3u8
-#EXTINF:-1 tvg-id="" status="online",Rakuten TV - Sport 3
-https://list.iptvcat.com/my_list/s/3ecf2b5f7bf7f20fe4263c9788d02986.m3u8
-#EXTINF:-1 tvg-id="" status="online",Rakuten TV - Sport 4 
-https://list.iptvcat.com/my_list/s/36c69b2b1dfa9ec3e593cb84dfd81977.m3u8
-#EXTINF:-1 tvg-id="" status="online",Rakuten TV - Sport 5
-https://list.iptvcat.com/my_list/s/b512344997010d5ca8f3e3adf00a9382.m3u8
-#EXTINF:-1 tvg-id="" status="online",Rakuten TV - Sport 6
-https://list.iptvcat.com/my_list/s/8dd24c0871198c508f8d7d6d13b4f5f9.m3u8
-#EXTINF:-1 tvg-id="" status="online",Rakuten TV - Sport 7
-https://list.iptvcat.com/my_list/s/4151d74291c4930bda368d9fab0f0dfc.m3u8
+#EXTINF:-1 tvg-id="" status="online",Fashion
+https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
