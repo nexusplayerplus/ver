@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/QOriZy5.png" group-title="Movies",Star 2
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs27&checkedby:iptvcat.com
