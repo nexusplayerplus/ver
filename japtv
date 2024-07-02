@@ -1,0 +1,43 @@
+#EXTM3U
+
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/vACq7w8.png" group-title="Undefined",WOWOW Prime
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12&checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/jPAYT5F.png" group-title="Undefined",WOWOW Live
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20&checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/Wx9fkCW.png" group-title="Movies",WOWOW Cinema
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07&checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/Z1x8ecY.png" group-title="Movies",Star 3
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs28&checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/QOriZy5.png" group-title="Movies",Star 2
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs27&checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/PSVgw99.png" group-title="Movies",Star 1
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08&checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="JP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="Documentary",National Geographic Japan
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10&checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="JP" tvg-logo="" group-title="Undefined",MTV Japan
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18&checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/fBcyZNL.png" group-title="Sport",J Sports 4
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/xdI361E.png" group-title="Sport",J Sports 3
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21&checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/g1GLVH2.png" group-title="Sport",J Sports 2
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19&checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/vEpjLnj.png" group-title="Sport",J Sports 1
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18&checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/UgKRfuw.png" group-title="Sport",Gaora Sports
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17&checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/Ft6wEdO.png" group-title="News",CNNj
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16&checkedby:iptvcat.com
