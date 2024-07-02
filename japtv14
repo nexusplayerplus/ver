@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/Ft6wEdO.png" group-title="News",CNNj
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16&checkedby:iptvcat.com
